@@ -1,0 +1,1 @@
+# albedo-meter-v1.0
